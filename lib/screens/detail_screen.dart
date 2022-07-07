@@ -278,7 +278,7 @@ class _DetailScreenState extends State<DetailScreen> {
                                                   CrossAxisAlignment.start,
                                               children: [
                                                 SizedBox(
-                                                  width: 327,
+                                                  // width: 327,
                                                   child: Text(
                                                     listLessonCourse[index]
                                                         .nameLesson,
